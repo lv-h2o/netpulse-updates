@@ -1,7 +1,7 @@
 # NetPulse 🚀
 
 <div align="center">
-  <img src="./assets/images/netpulse.png" alt="NetPulse Banner" width="100%" style="max-width: 1000px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="./assets/images/dashboard.png" alt="NetPulse Banner" width="100%" style="max-width: 1000px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 <div align="center">
